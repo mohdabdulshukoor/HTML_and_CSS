@@ -1,0 +1,136 @@
+Title	Role	Notes	Ref	('Title', 'Role', 'Notes', 'Ref')
+What's Eating Gilbert Grape	" Arnold ""Arnie"" Grape"		[19]	What's Eating Gilbert Grape
+The Basketball Diaries	Jim Carroll		[20]	The Basketball Diaries
+The Quick and the Dead	"Fee ""The Kid"" Herod"		[21]	The Quick and the Dead
+Total Eclipse	Arthur Rimbaud		[22]	Total Eclipse
+Romeo + Juliet	Romeo Montague		[23]	Romeo + Juliet
+Marvin's Room	Hank		[24]	Marvin's Room
+Titanic	Jack Dawson		[25]	Titanic
+The Man in the Iron Mask	King Louis XIV / Philippe		[26]	The Man in the Iron Mask
+Celebrity	Brandon Darrow		[27]	Celebrity
+The Beach	Richard		[28]	The Beach
+Don's Plum	Derek		[29]	Don's Plum
+Catch Me If You Can	Frank Abagnale, Jr.		[30]	Catch Me If You Can
+Gangs of New York	Amsterdam Vallon		[31]	Gangs of New York
+The Aviator	Howard Hughes		[32]	The Aviator
+The Departed	"William ""Billy"" Costigan"		[33]	The Departed
+Blood Diamond	Danny Archer		[34]	Blood Diamond
+The 11th Hour	Himself/Narrator	Documentary; also writer	[35]	The 11th Hour
+Body of Lies	Roger Ferris		[36]	Body of Lies
+Revolutionary Road	Frank Wheeler		[37]	Revolutionary Road
+Shutter Island	"Edward ""Teddy"" Daniels"		[38]	Shutter Island
+Hubble	Narrator (voice)	Documentary	[39]	Hubble
+Inception	Dom Cobb		[40]	Inception
+J. Edgar	J. Edgar Hoover		[41]	J. Edgar
+Django Unchained	Calvin J. Candie		[42]	Django Unchained
+ The Great Gatsby	Jay Gatsby		[43]	 The Great Gatsby
+The Wolf of Wall Street	Jordan Belfort		[44]	The Wolf of Wall Street
+The Revenant	Hugh Glass		[45]	The Revenant
+The Audition	Himself	Short film	[46]	The Audition
+Before the Flood	Documentary	[47]		Before the Flood
+Once Upon a Time in Hollywood	Rick Dalton		[48]	Once Upon a Time in Hollywood
+Ice on Fire	Narrator (voice)	Documentary	[49]	Ice on Fire
+Don't Look Up	Dr. Randall Mindy		[50]	Don't Look Up
+Killers of the Flower Moon 	Ernest Burkhart	Post-production	[51][52]	Killers of the Flower Moon 
+Title	Role	Notes	Ref	('Title', 'Role', 'Notes', 'Ref')
+What's Eating Gilbert Grape	" Arnold ""Arnie"" Grape"		[19]	What's Eating Gilbert Grape
+The Basketball Diaries	Jim Carroll		[20]	The Basketball Diaries
+The Quick and the Dead	"Fee ""The Kid"" Herod"		[21]	The Quick and the Dead
+Total Eclipse	Arthur Rimbaud		[22]	Total Eclipse
+Romeo + Juliet	Romeo Montague		[23]	Romeo + Juliet
+Marvin's Room	Hank		[24]	Marvin's Room
+Titanic	Jack Dawson		[25]	Titanic
+The Man in the Iron Mask	King Louis XIV / Philippe		[26]	The Man in the Iron Mask
+Celebrity	Brandon Darrow		[27]	Celebrity
+The Beach	Richard		[28]	The Beach
+Don's Plum	Derek		[29]	Don's Plum
+Catch Me If You Can	Frank Abagnale, Jr.		[30]	Catch Me If You Can
+Gangs of New York	Amsterdam Vallon		[31]	Gangs of New York
+The Aviator	Howard Hughes		[32]	The Aviator
+The Departed	"William ""Billy"" Costigan"		[33]	The Departed
+Blood Diamond	Danny Archer		[34]	Blood Diamond
+The 11th Hour	Himself/Narrator	Documentary; also writer	[35]	The 11th Hour
+Body of Lies	Roger Ferris		[36]	Body of Lies
+Revolutionary Road	Frank Wheeler		[37]	Revolutionary Road
+Shutter Island	"Edward ""Teddy"" Daniels"		[38]	Shutter Island
+Hubble	Narrator (voice)	Documentary	[39]	Hubble
+Inception	Dom Cobb		[40]	Inception
+J. Edgar	J. Edgar Hoover		[41]	J. Edgar
+Django Unchained	Calvin J. Candie		[42]	Django Unchained
+ The Great Gatsby	Jay Gatsby		[43]	 The Great Gatsby
+The Wolf of Wall Street	Jordan Belfort		[44]	The Wolf of Wall Street
+The Revenant	Hugh Glass		[45]	The Revenant
+The Audition	Himself	Short film	[46]	The Audition
+Before the Flood	Documentary	[47]		Before the Flood
+Once Upon a Time in Hollywood	Rick Dalton		[48]	Once Upon a Time in Hollywood
+Ice on Fire	Narrator (voice)	Documentary	[49]	Ice on Fire
+Don't Look Up	Dr. Randall Mindy		[50]	Don't Look Up
+Killers of the Flower Moon 	Ernest Burkhart	Post-production	[51][52]	Killers of the Flower Moon 
+Title	Role	Notes	Ref	('Title', 'Role', 'Notes', 'Ref')
+What's Eating Gilbert Grape	" Arnold ""Arnie"" Grape"		[19]	What's Eating Gilbert Grape
+The Basketball Diaries	Jim Carroll		[20]	The Basketball Diaries
+The Quick and the Dead	"Fee ""The Kid"" Herod"		[21]	The Quick and the Dead
+Total Eclipse	Arthur Rimbaud		[22]	Total Eclipse
+Romeo + Juliet	Romeo Montague		[23]	Romeo + Juliet
+Marvin's Room	Hank		[24]	Marvin's Room
+Titanic	Jack Dawson		[25]	Titanic
+The Man in the Iron Mask	King Louis XIV / Philippe		[26]	The Man in the Iron Mask
+Celebrity	Brandon Darrow		[27]	Celebrity
+The Beach	Richard		[28]	The Beach
+Don's Plum	Derek		[29]	Don's Plum
+Catch Me If You Can	Frank Abagnale, Jr.		[30]	Catch Me If You Can
+Gangs of New York	Amsterdam Vallon		[31]	Gangs of New York
+The Aviator	Howard Hughes		[32]	The Aviator
+The Departed	"William ""Billy"" Costigan"		[33]	The Departed
+Blood Diamond	Danny Archer		[34]	Blood Diamond
+The 11th Hour	Himself/Narrator	Documentary; also writer	[35]	The 11th Hour
+Body of Lies	Roger Ferris		[36]	Body of Lies
+Revolutionary Road	Frank Wheeler		[37]	Revolutionary Road
+Shutter Island	"Edward ""Teddy"" Daniels"		[38]	Shutter Island
+Hubble	Narrator (voice)	Documentary	[39]	Hubble
+Inception	Dom Cobb		[40]	Inception
+J. Edgar	J. Edgar Hoover		[41]	J. Edgar
+Django Unchained	Calvin J. Candie		[42]	Django Unchained
+ The Great Gatsby	Jay Gatsby		[43]	 The Great Gatsby
+The Wolf of Wall Street	Jordan Belfort		[44]	The Wolf of Wall Street
+The Revenant	Hugh Glass		[45]	The Revenant
+The Audition	Himself	Short film	[46]	The Audition
+Before the Flood	Documentary	[47]		Before the Flood
+Once Upon a Time in Hollywood	Rick Dalton		[48]	Once Upon a Time in Hollywood
+Ice on Fire	Narrator (voice)	Documentary	[49]	Ice on Fire
+Don't Look Up	Dr. Randall Mindy		[50]	Don't Look Up
+Killers of the Flower Moon 	Ernest Burkhart	Post-production	[51][52]	Killers of the Flower Moon 
+Title	Role	Notes	Ref	('Title', 'Role', 'Notes', 'Ref')
+What's Eating Gilbert Grape	" Arnold ""Arnie"" Grape"		[19]	What's Eating Gilbert Grape
+The Basketball Diaries	Jim Carroll		[20]	The Basketball Diaries
+The Quick and the Dead	"Fee ""The Kid"" Herod"		[21]	The Quick and the Dead
+Total Eclipse	Arthur Rimbaud		[22]	Total Eclipse
+Romeo + Juliet	Romeo Montague		[23]	Romeo + Juliet
+Marvin's Room	Hank		[24]	Marvin's Room
+Titanic	Jack Dawson		[25]	Titanic
+The Man in the Iron Mask	King Louis XIV / Philippe		[26]	The Man in the Iron Mask
+Celebrity	Brandon Darrow		[27]	Celebrity
+The Beach	Richard		[28]	The Beach
+Don's Plum	Derek		[29]	Don's Plum
+Catch Me If You Can	Frank Abagnale, Jr.		[30]	Catch Me If You Can
+Gangs of New York	Amsterdam Vallon		[31]	Gangs of New York
+The Aviator	Howard Hughes		[32]	The Aviator
+The Departed	"William ""Billy"" Costigan"		[33]	The Departed
+Blood Diamond	Danny Archer		[34]	Blood Diamond
+The 11th Hour	Himself/Narrator	Documentary; also writer	[35]	The 11th Hour
+Body of Lies	Roger Ferris		[36]	Body of Lies
+Revolutionary Road	Frank Wheeler		[37]	Revolutionary Road
+Shutter Island	"Edward ""Teddy"" Daniels"		[38]	Shutter Island
+Hubble	Narrator (voice)	Documentary	[39]	Hubble
+Inception	Dom Cobb		[40]	Inception
+J. Edgar	J. Edgar Hoover		[41]	J. Edgar
+Django Unchained	Calvin J. Candie		[42]	Django Unchained
+ The Great Gatsby	Jay Gatsby		[43]	 The Great Gatsby
+The Wolf of Wall Street	Jordan Belfort		[44]	The Wolf of Wall Street
+The Revenant	Hugh Glass		[45]	The Revenant
+The Audition	Himself	Short film	[46]	The Audition
+Before the Flood	Documentary	[47]		Before the Flood
+Once Upon a Time in Hollywood	Rick Dalton		[48]	Once Upon a Time in Hollywood
+Ice on Fire	Narrator (voice)	Documentary	[49]	Ice on Fire
+Don't Look Up	Dr. Randall Mindy		[50]	Don't Look Up
+Killers of the Flower Moon 	Ernest Burkhart	Post-production	[51][52]	Killers of the Flower Moon 
